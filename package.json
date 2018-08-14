@@ -1,5 +1,5 @@
 {
-  "name": "homework-wp",
+  "name": "webpackIntro",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gogumaUno/homework-wp.git"
+    "url": "git+https://github.com/gogumaUno/webpackIntro.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gogumaUno/homework-wp/issues"
+    "url": "https://github.com/gogumaUno/webpackIntro/issues"
   },
-  "homepage": "https://github.com/gogumaUno/homework-wp#readme",
+  "homepage": "https://github.com/gogumaUno/webpackIntro#readme",
   "dependencies": {
     "webpack": "^4.16.5"
   },
