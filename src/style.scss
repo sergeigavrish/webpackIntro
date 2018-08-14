@@ -1,0 +1,22 @@
+//colors
+$black_20: rgba(0,0,0,0.2);
+$red: red;
+
+#root {
+	display: flex;
+	flex-direction: row;
+}
+.card {
+  color: $red;
+	box-shadow: 0 4px 8px 0 $black_20;
+	transition: 0.3s;
+	border-radius: 10px;
+	margin: auto;
+  width: 30%;
+  text-align: center;
+	display: inherit;
+	flex-direction: column;
+	&:hover {
+		box-shadow: 0 8px 16px 0 $black_20;
+	}
+}
